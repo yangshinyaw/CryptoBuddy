@@ -1,0 +1,1 @@
+The Crypto Price Tracker is a Python-based tool that fetches real-time cryptocurrency prices for Bitcoin (BTC) and Ethereum (ETH) using the CoinGecko API. Additionally, it provides AI-powered trading suggestions using OpenAI's GPT-4 model.
